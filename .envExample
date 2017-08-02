@@ -1,0 +1,6 @@
+JWT_SECRET=token_secret
+DB_USER=database_user
+DB_PASSWORD=database_password
+DB_MACHINE=hostname.domain.com
+DB_PORT=database_port
+DB_NAME=database_name
